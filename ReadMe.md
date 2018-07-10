@@ -10,3 +10,5 @@ Node.js application to observe (`tail -f`) a directory of logfiles including a w
     node . --watch [DIR_NAME]
 
 * `DIR_NAME` is the name of the logs directory
+
+testing..
